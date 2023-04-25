@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo My Login App</string>
+    <string name="n">Name</string>
+    <string name="p">Password</string>
+    <string name="L">LOGIN</string>
+    <string name="C">CANCEL</string>
+</resources>
